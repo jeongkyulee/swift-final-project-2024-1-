@@ -4,6 +4,9 @@ iOS 기반 건설 현장 안전 관리 애플리케이션
 
 Swift를 이용해 개발된 앱으로, 건설 현장에서 발생할 수 있는 기상 위험과 안전모 미착용 문제를 예방하기 위해 설계되었습니다.
 
+
+
+
 📌 프로젝트 소개 (Introduction)
 
 현장의 주요 사고 원인 중 하나는 악천후 환경과 안전모 미착용입니다.
@@ -13,6 +16,9 @@ Swift를 이용해 개발된 앱으로, 건설 현장에서 발생할 수 있는
 기상 분석 (Weather Analysis)
 
 안전모 착용 여부 감지 및 알림
+
+
+
 
 ⚙️ 주요 기능 (App Service)
 
@@ -32,6 +38,9 @@ App Demo Video
 
 앱 동작 시연 영상 포함
 
+
+
+
 👩‍💻 개발 과정 (App Development Process)
 
 개발 언어: Swift (iOS)
@@ -43,6 +52,9 @@ Swift 코드 구조 설계 및 기능 모듈화
 UI/UX 설계 및 사용자 편의성 개선
 
 Helmet Detection → 알림 기능 연동
+
+
+
 
 📊 시장 분석 및 매출 목표 (Sales Goal)
 
@@ -64,6 +76,9 @@ Plan B (B2G Exit):
 
 유사 사례(8배수) 기준 기업가치: $180M
 
+
+
+
 👥 팀 구성 (Team 1)
 
 Lee, Sangkyu – 시장 분석 리서치
@@ -75,6 +90,9 @@ Kim, Eunbi – 아이디어 기획
 Heo, Eunjin – 발표 자료 제작 및 디자인
 
 Lee, Jongkyu – 코드 개발 및 설정
+
+
+
 
 🙏 감사의 말
 
